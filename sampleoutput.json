@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Farrer, Samantha Lock, Harry Taylor",
+            "title": "Russia-Ukraine war update: what we know on day 18 of the Russian invasion - The Guardian",
+            "description": "Rocket attack on military base near Lviv kills at least 35, as Polish president warns Russia could use chemical weapons",
+            "url": "https://amp.theguardian.com/world/2022/mar/13/russia-ukraine-war-update-what-we-know-on-day-18-of-the-russian-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/c2f0a543ff5f8a48247c853ef612a1acbdd97d83/0_82_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef6c273ca24e8e0f5ee8992b0dd5e62",
+            "publishedAt": "2022-03-13T11:39:05Z",
+            "content": "<li>A rocket attack on a military base near Lviv has killedat least 35 people and injured 134, according to the areas governor. Large explosions were seen on Sunday at the base in Yavoriv, a garrison… [+2769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kirsten Chuba",
+            "title": "DGA Awards: Jane Campion and ‘The Power of the Dog’ Take Top Honor - Hollywood Reporter",
+            "description": "The 2022 Directors Guild Awards were presented at the Beverly Hilton on Saturday night, with Jane Campion taking the top prize for The Power of the Dog. At a ceremony hosted by Judd Apatow, Campion prevailed in the theatrical feature film category over Paul T…",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/dga-awards-2022-winners-list-1235109846/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/03/GettyImages-1384699546.jpg?w=1024",
+            "publishedAt": "2022-03-13T07:32:41Z",
+            "content": "The 2022 Directors Guild Awards were presented at the Beverly Hilton on Saturday night, with Jane Campion taking the top prize for The Power of the Dog.\r\nAt a ceremony hosted by Judd Apatow, Campion … [+17403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arizona Desert Swarm"
+            },
+            "author": "Brian J. Pedersen",
+            "title": "Arizona men’s basketball vs. UCLA final score: Wildcats rally in second half to beat Bruins, win Pac-12 Tourn… - Arizona Desert Swarm",
+            "description": "LAS VEGAS—A year ago at this time, Arizona was sitting out the postseason while awaiting its punishment from the NCAA for past discretions.  The Wildcats are still waiting for those penalties to be...",
+            "url": "https://www.azdesertswarm.com/basketball/2022/3/12/22974803/arizona-wildcats-mens-basketball-ucla-bruins-recap-pac12-championship-vegas-2022-stats-highlights",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/c1Wl9_5n-x1e9Sg4sc_lFylGAIU=/0x0:5111x2676/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23310275/usa_today_17885697.jpg",
+            "publishedAt": "2022-03-13T04:46:40Z",
+            "content": "LAS VEGASA year ago at this time, Arizona was sitting out the postseason while awaiting its punishment from the NCAA for past discretions. \r\nThe Wildcats are still waiting for those penalties to be l… [+4103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "David Smith",
+            "title": "‘Cynical, craven’ Republicans out to bash Biden, not Putin, over gas prices - The Guardian",
+            "description": "Critics say party has seized on price hikes to exploit war in Ukraine for its own benefit – ‘an unconscionable act of political cowardice’",
+            "url": "https://amp.theguardian.com/us-news/2022/mar/12/republicans-joe-biden-russia-gas-prices",
+            "urlToImage": null,
+            "publishedAt": "2022-03-12T10:02:00Z",
+            "content": "Joe BidenCritics say party has seized on price hikes to exploit war in Ukraine for its own benefit an unconscionable act of political cowardice\r\nIn a Washington riven by discord, it can seem like a t… [+8052 chars]"
+        }
+    ]
+}
